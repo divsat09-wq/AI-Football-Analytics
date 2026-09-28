@@ -1,0 +1,16 @@
+GridIron-Frontend/
+├── src/
+│   ├── api.js
+│   ├── App.jsx
+│   ├── FilmReview.jsx
+│   ├── main.jsx
+│   ├── Stats.jsx
+│   └── styles.css
+├── .env.example
+├── .gitignore
+├── FILE_TREE.txt
+├── FULL_SOURCE.md
+├── index.html
+├── package.json
+├── README.md
+└── vite.config.js
